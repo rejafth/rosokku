@@ -1,0 +1,36 @@
+{
+    "theme_color": "#28a745",
+    "background_color": "#28a745",
+    "display": "standalone",
+    "scope": "/rosokku/admin-app/",
+    "start_url": "/rosokku/admin-app/",
+    "app_name": "Admin Rosokku",
+    "short_name": "Admin Rosokku",
+    "name": "Admin Rosokku",
+    "description": "Ini adalah aplikasi pengelolaan transaksi untuk admin rosokku",
+    "icons": [{
+            "src": "/rosokku/admin-app/assets/manifest/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/rosokku/admin-app/assets/manifest/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/rosokku/admin-app/assets/manifest/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/rosokku/admin-app/assets/manifest/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
